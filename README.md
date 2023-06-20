@@ -4,7 +4,7 @@ A curated list of resources on zkECDSA.
 
 ## What is zkECDSA?
 
-zkECDSA is...
+zkECDSA is the ECDSA signature verification carried out through zero-knowledge proof. 
 
 ## Articles / Discussions
 
@@ -40,10 +40,9 @@ zkECDSA is...
 - [ecrecover-noir](https://github.com/colinnielsen/ecrecover-noir) by [Colin Nielsen](https://github.com/colinnielsen)
 - [Simple Shield](https://github.com/vezenovm/simple_shield)
 - [foundry-voting](https://github.com/noir-lang/noir-starter)
+- [AnonAA](https://github.com/porco-rosso-j/zk-ecdsAA)
 
 #### Others
 - [zkShield](https://github.com/bankisan/zkShield)
-
-## Contribute
 
 
