@@ -1,6 +1,5 @@
 # Awesome zkECDSA
 A curated list of resources on zkECDSA.
-## Contents
 
 ## What is zkECDSA?
 
