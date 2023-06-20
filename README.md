@@ -37,8 +37,6 @@ zkECDSA is the ECDSA signature verification carried out through zero-knowledge p
 #### Noir
 - [Dark-Safe](https://github.com/colinnielsen/dark-safe) 
 - [ecrecover-noir](https://github.com/colinnielsen/ecrecover-noir) 
-- [Simple Shield](https://github.com/vezenovm/simple_shield)
-- [foundry-voting](https://github.com/noir-lang/noir-starter)
 - [AnonAA](https://github.com/porco-rosso-j/zk-ecdsAA)
 
 #### Others
