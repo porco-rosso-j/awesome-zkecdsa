@@ -14,7 +14,8 @@ zkECDSA is the ECDSA signature verification carried out through zero-knowledge c
 #### [0xParc](https://0xparc.org/)
 - [zk-ECDSA: zkSNARKs for ECDSA (Part 1)](https://0xparc.org/blog/zk-ecdsa-1)
 - [zk-ECDSA Part 2: Under the Hood](https://0xparc.org/blog/zk-ecdsa-2) 
-- [Group Signatures with zkSNARKs](https://0xparc.org/blog/zk-group-sigs)  
+- [Group Signatures with zkSNARKs](https://0xparc.org/blog/zk-group-sigs)
+- [PLUME: Verifiably Deterministic Signatures on ECDSA](https://blog.aayushg.com/posts/nullifier/)
 
 ## Implementations
 
@@ -23,7 +24,8 @@ zkECDSA is the ECDSA signature verification carried out through zero-knowledge c
 
 #### [0xParc](https://0xparc.org/)
 - [circom-ecdsa](https://github.com/0xPARC/circom-ecdsa)  
-- [zk-group-sig](https://github.com/0xPARC/zk-group-sigs)  
+- [zk-group-sig](https://github.com/0xPARC/zk-group-sigs)
+- [zk-nullifier-sig](https://github.com/plume-sig/zk-nullifier-sig)  
 
 #### [Personae Labs](https://personaelabs.org/)
 - [spartan-ecdsa](https://github.com/personaelabs/spartan-ecdsa)
