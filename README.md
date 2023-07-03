@@ -21,6 +21,9 @@ zkECDSA is the ECDSA signature verification carried out through zero-knowledge c
 - [Introducing Spartan-ecdsa](https://personaelabs.org/posts/spartan-ecdsa/)
 - [Efficient ECDSA & the case for client-side proving](https://personaelabs.org/posts/efficient-ecdsa-1/)
 
+#### Noir
+- [Colin Nielsen's tweet thread on Noir&s ECDSA verification method](https://twitter.com/colinrives/status/1655599606690992132)
+
 ## Implementations
 
 #### [Privacy and Scaling Explorations](https://appliedzkp.org/)  
