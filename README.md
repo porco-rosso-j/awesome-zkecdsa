@@ -3,7 +3,7 @@ A curated list of resources on zkECDSA.
 
 ## What is zkECDSA?
 
-zkECDSA is the ECDSA signature verification carried out through zero-knowledge circuits, which helps you transact on-chain without revealing your public identities such as your eth address and public key. 
+zkECDSA is the ECDSA signature verification carried out through zero-knowledge circuits, which opens up a path to explore various privacy-preserving use cases. 
 
 ## Articles / Discussions
 
